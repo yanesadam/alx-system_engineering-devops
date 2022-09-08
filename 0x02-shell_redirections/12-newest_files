@@ -1,2 +1,0 @@
-#!/bin/bash
-ls -A1 --sort=time | head -n 10
